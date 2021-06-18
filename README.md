@@ -1,8 +1,9 @@
 # ReactProjects
-Some basic Web Apps build using React
+
+# Some basic Web Apps build using React
 
 
-#Expense Tracker
+# Expense Tracker
 
 Created an Expense Tracker using ReactJs , that allows you to add any transaction you want , be it a plus amount ( Income ) or a negative amount ( Expense ) , 
 here +ve amount is for INCOME while -ve amount is for EXPENSE .
