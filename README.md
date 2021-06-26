@@ -19,3 +19,9 @@ Created a Finace Tracker or a crytocurrency tracker to be specific , using  http
 This was made using React Hooks and Axios was used to fetch the Api . 
 
 Check this out here  : https://crypttrack.netlify.app/
+
+# Pizza Website Template
+
+Created a Restaurant Ecommerce Website using ReactJs and React styled-components .  
+
+Check this out here :https://samspizzeria.netlify.app/
