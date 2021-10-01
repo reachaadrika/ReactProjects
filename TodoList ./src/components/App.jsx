@@ -42,3 +42,5 @@ export class App extends Component {
 }
 
 export default App
+
+//import res-json here for full stack integration.
